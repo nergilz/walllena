@@ -14,8 +14,8 @@ import json
 from vk.exceptions import VkException
 from time import sleep
 
-TOKEN = 'c14030f0695f47d7557a897c771ffd7e703111482537966163dc56473531c1de7769b227881a7bf0463b4'
-GROUP_ID = '-150144298'
+TOKEN = 'token'
+GROUP_ID = 'id'
 # APP_ID = 6421852
 
 
